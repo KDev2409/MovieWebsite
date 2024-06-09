@@ -1,2 +1,2 @@
 # MovieWebsite
-Movie tickets and snacks booking website
+This is a Movie ticket and Snacks booking website
